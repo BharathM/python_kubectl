@@ -1,5 +1,5 @@
 # python_kubectl
-Run the commands on multiple pods
+Run the same commands on multiple pods (Filter the PODs by name)
 
 This python program run the following command and get the list of all the available pods in the namespace.
 
